@@ -1,0 +1,34 @@
+{
+  "name": "map-struct",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Map values in an observ-struct",
+  "license": "MIT",
+  "repository": "bendrucker/map-struct",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "map",
+    "values",
+    "observ",
+    "struct",
+    "observ-struct"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "map-values": "~1.0.1",
+    "observ-struct": "~6.0.0"
+  }
+}
