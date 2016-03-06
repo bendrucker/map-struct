@@ -1,7 +1,7 @@
 {
   "name": "map-struct",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Map values in an observ-struct",
   "license": "MIT",
   "repository": "bendrucker/map-struct",
