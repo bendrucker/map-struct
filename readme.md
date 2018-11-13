@@ -1,4 +1,4 @@
-# map-struct [![Build Status](https://travis-ci.org/bendrucker/map-struct.svg?branch=master)](https://travis-ci.org/bendrucker/map-struct)
+# map-struct [![Build Status](https://travis-ci.org/bendrucker/map-struct.svg?branch=master)](https://travis-ci.org/bendrucker/map-struct) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/map-struct.svg)](https://greenkeeper.io/)
 
 > Map values in an observ-struct
 
